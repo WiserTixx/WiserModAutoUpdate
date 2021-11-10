@@ -1,1 +1,1 @@
-app/wisermod launcher.exe
+\app\wisermod launcher.exe
