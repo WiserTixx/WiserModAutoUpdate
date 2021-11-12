@@ -5,12 +5,15 @@ Launcher:
 - added credits and changelog page
 - smaller file
 - added backgrounds
+- Better version display
 
 Autoupdate:
 - New autoupdate (100% better)
 - smaller file 
--no cmd prompt
+- no cmd prompt
+- added Error handler
 
 Installer:
 - works with new autoupdate
 - added download progress bar
+- added Error handler
