@@ -1,19 +1,12 @@
 Launcher:
-- Launcher has been redesigned
-- added addons screen
-- seemingless window switching
-- added credits and changelog page
-- smaller file
-- added backgrounds
-- Better version display
-
-Autoupdate:
-- New autoupdate (100% better)
-- smaller file 
-- no cmd prompt
-- added Error handler
-
-Installer:
-- works with new autoupdate
-- added download progress bar
-- added Error handler
+- Added RPC
+∘ RPC on/off in settings
+∘ RPC changes when launch
+- Added advanced in main
+- Added tabs (main and launch)
+- Addons screen improved
+∘ "Open" button
+∘ "Add Add-ons"
+- All buttons are now round
+- Menu buttons are now semi-borderless
+- More "After launch" options
