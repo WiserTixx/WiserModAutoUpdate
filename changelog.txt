@@ -2,8 +2,9 @@ Launcher:
 - Added RPC
 ∘ RPC on/off in settings
 ∘ RPC changes when launch
-- Added advanced in main
+- Added 
 - Added tabs (main and launch)
+∘ advanced in main
 - Addons screen improved
 ∘ "Open" button
 ∘ "Add Add-ons"
