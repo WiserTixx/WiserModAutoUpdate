@@ -1,13 +1,24 @@
 Launcher:
-- Added RPC
-∘ RPC on/off in settings
-∘ RPC changes when launch
-- Added 
-- Added tabs (main and launch)
-∘ advanced in main
-- Addons screen improved
-∘ "Open" button
-∘ "Add Add-ons"
-- All buttons are now round
-- Menu buttons are now semi-borderless
-- More "After launch" options
+- Addons
+∘ Read addon json
+∘ Read pack.png and load it
+
+- Settings
+∘ Fix refresh not making a new log
+∘ Added close after launch
+
+- Home screen
+∘ changed background
+∘ swaped button
+   - Button grows when hovered
+∘ added injector
+∘ right click custom dll
+ 
+- General
+∘ Changed font
+∘ New Titlebar
+∘ Sidebar buttons simpler
+∘ added selected color
+∘ Removed hover colors for main gui buttons
+∘ Added tray for RPC
+∘ startup antimation
