@@ -22,3 +22,4 @@ Launcher:
 ∘ Removed hover colors for main gui buttons
 ∘ Added tray for RPC
 ∘ startup antimation
+∘ fix famous crash
